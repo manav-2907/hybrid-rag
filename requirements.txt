@@ -1,12 +1,12 @@
 streamlit==1.31.0
 pandas==2.1.4
-langchain==0.1.6
-langchain-community==0.0.20
-langchain-openai==0.0.5
-langchain-experimental==0.0.50
+numpy
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-openai==0.0.8
+langchain-experimental==0.0.55
 faiss-cpu==1.7.4
 pypdf==4.0.1
 python-dotenv==1.0.0
 openai==1.12.0
 tiktoken==0.5.2
-pathlib==1.0.1
